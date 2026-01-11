@@ -37,5 +37,5 @@
 
 # How to access this repo on Devise
 - git clone https://github.com/Lakhan-cs/Linear-reg_project       (On terminal)
-- pip install -r ddrequirement.txt                       (intall all essential packages on bash terminal)
+- pip install -r requirement.txt                       (intall all essential packages on bash terminal)
 - cd "Lakhan-cs/Linear-reg_project"         (Access the repo file can also modify the repo.)
