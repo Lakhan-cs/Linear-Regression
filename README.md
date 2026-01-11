@@ -8,6 +8,8 @@
 ## Dataset Overview 
 
 - Source: IMDb movies (Top 50 movies)
+- Name: IMDB-Movie-Data.csv
+- Format: csv & exel
 - Type : Different Types like : Sci-fy, Action, Animation, Drama, Comedy etc...
 
 ---
@@ -34,5 +36,6 @@
  - sklearn
 
 # How to access this repo on Devise
-- git clone https://github.com/Lakhan-cs/Linear-reg_project    (On terminal) 
+- git clone https://github.com/Lakhan-cs/Linear-reg_project       (On terminal)
+- pip install -r Linear-reg_requirement.txt                       (intall all essential packages on bash terminal)
 - cd "Lakhan-cs/Linear-reg_project"         (Access the repo file can also modify the repo.)
